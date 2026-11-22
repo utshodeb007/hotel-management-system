@@ -334,18 +334,10 @@ The project also demonstrates how Java classes and text-file handling can be use
 
 **Programming Language:** Java
 
-**GitHub Repository:**
-
-https://github.com/utshodeb007/hotel-management-system
+**GitHub Profile:**  
+https://github.com/utshodeb007
 
 ---
 
-<p align="center">
 
-**Developed by Utsho Kumar Deb**
 
-**Department of Computer Science and Engineering**
-
-**Northern University Bangladesh**
-
-</p>
